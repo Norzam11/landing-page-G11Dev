@@ -355,6 +355,10 @@ footer p {
   .content {
     width: 100%;
   }
+  
+  .contact-wrapper {
+    height: 180px;
+  }
 
   .team {
     width: 100%;
